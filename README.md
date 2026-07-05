@@ -20,14 +20,16 @@
 Зачет: 19.06.2026      Оценка: 3
 
 # Дополнительно:
-
+| №   | Состояние | Ссылка |
+|-----|-----------|-------------------|
 | 12  | +++ | [Билеты к комисии по дисциплине: «Искусственные нейронные сети»](https://colab.research.google.com/drive/1b2OK16J7mwgvEvSr8xviotByHVs79Kd6) |
 | 13  | +++ | [Статистика выполнения работ группы](https://docs.google.com/spreadsheets/d/19FqfEvct--nSiEaB47dGDJCdv98natr9GkTL6Qe4tfg/edit?gid=1082323949#gid=1082323949) |
 | 14  | +++ | [Учебный репозиторий(оригинал)](https://github.com/Alexandre77777/neural_networks) |
 | 15  | +++ | [Мой профиль в Roboflow Universe](https://universe.roboflow.com/kolyas) |
 
 # Дополнительно по 10 работе:
-
+| №   | Состояние | Ссылка |
+|-----|-----------|-------------------|
 | 16  | +++ | [Streamlit - Интерфейс веб-приложения для классификации ландшафтов](https://sceneclassification-bfeczeb7bpgfp82pvuhre3.streamlit.app/) |
 | 17  | +++ | [Render - Развёрнутый веб-сервис классификации ландшафтов](https://dashboard.render.com/web/srv-d8oddi8k1i2s738g3o30) |
 | 18  | +++ | [Swagger UI с эндпоинтами](https://scene-classification-stepan.onrender.com/docs#/) |
